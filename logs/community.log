@@ -1,0 +1,98 @@
+2019-09-11 20:33:20.108  INFO 7696 --- [main] l.m.c.community.CommunityApplication     : Starting CommunityApplication on BF-201907220951 with PID 7696 (C:\Users\Administrator\community\target\classes started by Administrator in C:\Users\Administrator\community)
+2019-09-11 20:33:20.111  INFO 7696 --- [main] l.m.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 20:33:21.030  INFO 7696 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2019-09-11 20:33:21.048  INFO 7696 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 20:33:21.049  INFO 7696 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-11 20:33:21.137  INFO 7696 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 20:33:21.137  INFO 7696 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 982 ms
+2019-09-11 20:33:21.293  INFO 7696 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 20:33:21.351  INFO 7696 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 20:33:21.458  INFO 7696 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2019-09-11 20:33:21.461  INFO 7696 --- [main] l.m.c.community.CommunityApplication     : Started CommunityApplication in 1.756 seconds (JVM running for 2.671)
+2019-09-11 20:35:43.859  INFO 7696 --- [http-nio-8887-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 20:35:43.859  INFO 7696 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 20:35:43.866  INFO 7696 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-09-11 20:36:40.994  INFO 9096 --- [main] l.m.c.community.CommunityApplication     : Starting CommunityApplication on BF-201907220951 with PID 9096 (C:\Users\Administrator\community\target\classes started by Administrator in C:\Users\Administrator\community)
+2019-09-11 20:36:41.000  INFO 9096 --- [main] l.m.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 20:36:41.973  INFO 9096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2019-09-11 20:36:41.992  INFO 9096 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 20:36:41.992  INFO 9096 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-11 20:36:42.085  INFO 9096 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 20:36:42.085  INFO 9096 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1026 ms
+2019-09-11 20:36:42.252  INFO 9096 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 20:36:42.312  INFO 9096 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 20:36:42.432  INFO 9096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2019-09-11 20:36:42.435  INFO 9096 --- [main] l.m.c.community.CommunityApplication     : Started CommunityApplication in 1.861 seconds (JVM running for 2.784)
+2019-09-11 20:37:45.753  INFO 9096 --- [http-nio-8887-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 20:37:45.753  INFO 9096 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 20:37:45.759  INFO 9096 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-09-11 20:39:59.959  INFO 4712 --- [main] l.m.c.community.CommunityApplication     : Starting CommunityApplication on BF-201907220951 with PID 4712 (C:\Users\Administrator\community\target\classes started by Administrator in C:\Users\Administrator\community)
+2019-09-11 20:39:59.962  INFO 4712 --- [main] l.m.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 20:40:00.912  INFO 4712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2019-09-11 20:40:00.930  INFO 4712 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 20:40:00.931  INFO 4712 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-11 20:40:01.021  INFO 4712 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 20:40:01.022  INFO 4712 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1022 ms
+2019-09-11 20:40:01.185  INFO 4712 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 20:40:01.243  INFO 4712 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 20:40:01.362  INFO 4712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2019-09-11 20:40:01.364  INFO 4712 --- [main] l.m.c.community.CommunityApplication     : Started CommunityApplication in 1.804 seconds (JVM running for 2.727)
+2019-09-11 20:40:44.944  INFO 4712 --- [http-nio-8887-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 20:40:44.945  INFO 4712 --- [http-nio-8887-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 20:40:44.952  INFO 4712 --- [http-nio-8887-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-09-11 20:51:36.022  INFO 21812 --- [main] l.m.c.community.CommunityApplication     : Starting CommunityApplication on BF-201907220951 with PID 21812 (C:\Users\Administrator\community\target\classes started by Administrator in C:\Users\Administrator\community)
+2019-09-11 20:51:36.025  INFO 21812 --- [main] l.m.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 20:51:37.180  INFO 21812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2019-09-11 20:51:37.199  INFO 21812 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 20:51:37.200  INFO 21812 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-11 20:51:37.295  INFO 21812 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 20:51:37.295  INFO 21812 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1231 ms
+2019-09-11 20:51:37.478  INFO 21812 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 20:51:37.539  INFO 21812 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 20:51:37.653  INFO 21812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2019-09-11 20:51:37.656  INFO 21812 --- [main] l.m.c.community.CommunityApplication     : Started CommunityApplication in 1.99 seconds (JVM running for 2.92)
+2019-09-11 20:52:23.609  INFO 21812 --- [http-nio-8887-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 20:52:23.610  INFO 21812 --- [http-nio-8887-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 20:52:23.615  INFO 21812 --- [http-nio-8887-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-11 21:07:16.832  INFO 14956 --- [main] l.m.c.community.CommunityApplication     : Starting CommunityApplication on BF-201907220951 with PID 14956 (C:\Users\Administrator\community\target\classes started by Administrator in C:\Users\Administrator\community)
+2019-09-11 21:07:16.835  INFO 14956 --- [main] l.m.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 21:07:17.786  INFO 14956 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2019-09-11 21:07:17.804  INFO 14956 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 21:07:17.804  INFO 14956 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-11 21:07:17.892  INFO 14956 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 21:07:17.892  INFO 14956 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1016 ms
+2019-09-11 21:07:18.060  INFO 14956 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 21:07:18.123  INFO 14956 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 21:07:18.248  INFO 14956 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2019-09-11 21:07:18.252  INFO 14956 --- [main] l.m.c.community.CommunityApplication     : Started CommunityApplication in 1.783 seconds (JVM running for 2.725)
+2019-09-11 21:07:42.558  INFO 14956 --- [http-nio-8887-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 21:07:42.558  INFO 14956 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 21:07:42.563  INFO 14956 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-11 21:32:18.285  INFO 17708 --- [main] l.m.c.community.CommunityApplication     : Starting CommunityApplication on BF-201907220951 with PID 17708 (C:\Users\Administrator\community\target\classes started by Administrator in C:\Users\Administrator\community)
+2019-09-11 21:32:18.285  INFO 17708 --- [main] l.m.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 21:32:19.239  INFO 17708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2019-09-11 21:32:19.255  INFO 17708 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 21:32:19.255  INFO 17708 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-11 21:32:19.348  INFO 17708 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 21:32:19.348  INFO 17708 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1016 ms
+2019-09-11 21:32:19.535  INFO 17708 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 21:32:19.588  INFO 17708 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 21:32:19.698  INFO 17708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2019-09-11 21:32:19.698  INFO 17708 --- [main] l.m.c.community.CommunityApplication     : Started CommunityApplication in 1.781 seconds (JVM running for 2.682)
+2019-09-11 21:32:22.432  INFO 17708 --- [http-nio-8887-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 21:32:22.432  INFO 17708 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 21:32:22.438  INFO 17708 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-11 21:33:37.873  INFO 11476 --- [main] l.m.c.community.CommunityApplication     : Starting CommunityApplication on BF-201907220951 with PID 11476 (C:\Users\Administrator\community\target\classes started by Administrator in C:\Users\Administrator\community)
+2019-09-11 21:33:37.880  INFO 11476 --- [main] l.m.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2019-09-11 21:33:38.861  INFO 11476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2019-09-11 21:33:38.878  INFO 11476 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-11 21:33:38.879  INFO 11476 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-11 21:33:38.969  INFO 11476 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-11 21:33:38.969  INFO 11476 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1030 ms
+2019-09-11 21:33:39.125  INFO 11476 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-11 21:33:39.186  INFO 11476 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-09-11 21:33:39.301  INFO 11476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2019-09-11 21:33:39.303  INFO 11476 --- [main] l.m.c.community.CommunityApplication     : Started CommunityApplication in 1.86 seconds (JVM running for 2.734)
+2019-09-11 21:33:56.889  INFO 11476 --- [http-nio-8887-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-11 21:33:56.890  INFO 11476 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-11 21:33:56.894  INFO 11476 --- [http-nio-8887-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
