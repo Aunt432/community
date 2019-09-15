@@ -2,7 +2,7 @@ package life.majiang.community.community.dto;
 
 public class AccessTokenDTO {
     private  String client_id;
-    private String lient_secret;
+    private String client_secret;
     private String code;
     private String redirect_uri;
     private String state;
@@ -15,12 +15,12 @@ public class AccessTokenDTO {
         this.client_id = client_id;
     }
 
-    public String getLient_secret() {
-        return lient_secret;
+    public String getClient_secret() {
+        return client_secret;
     }
 
-    public void setLient_secret(String lient_secret) {
-        this.lient_secret = lient_secret;
+    public void setClient_secret(String client_secret) {
+        this.client_secret = client_secret;
     }
 
     public String getCode() {

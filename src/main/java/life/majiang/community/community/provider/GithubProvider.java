@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 
 @Component
+
 public class GithubProvider {
     public String getAccessToken(AccessTokenDTO accessTokenDTO){
  MediaType mediaType
@@ -35,7 +36,7 @@ public class GithubProvider {
     }
     public GithubUse getUser(String accessToken) {
         OkHttpClient client = new OkHttpClient();
-        Request request = new Request.Builder().url("https://api.github.com/user?access_token=" + accessToken).build();
+        Request request = new Request.Builder().url("https://api.github.com/user?access_token=5245ad5436a7462cfd2cb41141cb9c92b991032f" ).build();
         try {
             Response response = client.newCall(request).execute();
             String string = response.body().string();
